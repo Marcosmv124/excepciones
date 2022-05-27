@@ -1,0 +1,7 @@
+C:\Users\user1\OneDrive\Escritorio\ExcepcionIndexOutOfRange\bin\Debug\ExcepcionIndexOutOfRange.exe.config
+C:\Users\user1\OneDrive\Escritorio\ExcepcionIndexOutOfRange\bin\Debug\ExcepcionIndexOutOfRange.exe
+C:\Users\user1\OneDrive\Escritorio\ExcepcionIndexOutOfRange\bin\Debug\ExcepcionIndexOutOfRange.pdb
+C:\Users\user1\OneDrive\Escritorio\ExcepcionIndexOutOfRange\obj\Debug\ExcepcionIndexOutOfRange.csproj.AssemblyReference.cache
+C:\Users\user1\OneDrive\Escritorio\ExcepcionIndexOutOfRange\obj\Debug\ExcepcionIndexOutOfRange.csproj.CoreCompileInputs.cache
+C:\Users\user1\OneDrive\Escritorio\ExcepcionIndexOutOfRange\obj\Debug\ExcepcionIndexOutOfRange.exe
+C:\Users\user1\OneDrive\Escritorio\ExcepcionIndexOutOfRange\obj\Debug\ExcepcionIndexOutOfRange.pdb
